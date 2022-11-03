@@ -7,3 +7,12 @@ This project for Code Louisville Data Analysis 1 uses data from Lousville Metro 
 
 ## Requirements
 
+## Setup
+### Create a Virtual Environment
+
+
+### Install Dependencies
+
+
+### Run
+VENV
