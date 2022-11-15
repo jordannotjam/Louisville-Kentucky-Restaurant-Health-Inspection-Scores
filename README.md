@@ -1,4 +1,4 @@
-# Louisville-Kentucky-Restaurant-Health-Inspection-Scores
+# Louisville Kentucky Restaurant Health Inspection Scores
 ## Intro
 This is a project for Code Louisville Data Analysis 1. The data being used comes from the Louisville Metro Open Data website. This data is being used to analyze passing restaurant health department scores in the Louisville Kentucky Metro area.
 
