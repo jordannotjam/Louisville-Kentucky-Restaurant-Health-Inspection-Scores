@@ -19,6 +19,6 @@ This project demostrates the skills listed:
     * Reading of data from a CSV file  
     * Cleaning data by dropping empty columns  
     * Filtering data to show only a specific value in a column  
-    * Using mean, nsmallest, nlargest, value_counts to analyze data  
+    * Using mean, nsmallest, nlargest, value_counts, and dropna to analyze data  
     * Visualizing data via Matplotlib
 
