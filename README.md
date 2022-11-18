@@ -11,8 +11,8 @@ In order to run this code, the following will be needed:
 
  Steps to run this code:  
     * Run git clone to clone the repository  
-    * In the Louisville-Kentucky-Restaurant-Health-Inspection-Scores directory,create a virtual environment  
-    * Install the libraries listed in requirements.txt via pip install
+    * In the Louisville-Kentucky-Restaurant-Health-Inspection-Scores directory, create a virtual environment  
+    * Install the libraries listed in requirements.txt via pip install  
     * Run the scores.ipynb notebook
 
 ## Skills Summary
