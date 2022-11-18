@@ -19,7 +19,7 @@ In order to run this code, the following will be needed:
 This project demostrates the skills and features listed:  
     * For Feature 1: Reading of data from a CSV file  
     * For Feature 2: Cleaning data by dropping empty columns and filtering data to show only a specific value in a column  
-    * For feature 3: Using mean, nsmallest, nlargest, value_counts, and dropna to analyze data  
-    * For feature 4: Visualizing data via 2 Matplotlib graphs  
-    * For feature 5: Markdown cells are listed between important cells of the Jupyter notebook
+    * For Feature 3: Using mean, nsmallest, nlargest, value_counts, and dropna to analyze data  
+    * For Feature 4: Visualizing data via 2 Matplotlib graphs  
+    * For Feature 5: Markdown cells are listed between important cells of the Jupyter notebook
 
